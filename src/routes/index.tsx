@@ -6,7 +6,7 @@ import {
   BarChart3, LineChart, ArrowUpRight, CheckCircle2, Trophy, Users, Clock,
   ChevronDown, Menu, X, Quote,
 } from "lucide-react";
-const trading1 = "https://ibb.co";
+import trading1 from "@/assets/trading1.png.asset.json";
 import trading2 from "@/assets/trading2.jpg.asset.json";
 import balance1 from "@/assets/balance1.png.asset.json";
 import balance2 from "@/assets/balance2.png.asset.json";
