@@ -219,7 +219,7 @@ function Hero() {
               <div className="h-2.5 w-2.5 rounded-full bg-bull/70" />
               <span className="ml-3 font-mono text-xs text-muted-foreground">GBPUSD · H4 · LIVE</span>
             </div>
-            <img src={trading1.url} alt="GBPUSD chart with Fibonacci retracement levels" width={1200} height={800} fetchPriority="high" decoding="async" className="w-full" />
+            <img src="https://ibb.co" alt="GBPUSD chart with Fibonacci retracement levels" width={1200} height={800} fetchPriority="high" decoding="async" className="w-full" />
           </div>
           <motion.div
             initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: 0.7 }}
@@ -661,7 +661,4 @@ function Home() {
   );
 
 }
-
-
-
 
